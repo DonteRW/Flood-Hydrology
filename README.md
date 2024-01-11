@@ -1,2 +1,2 @@
 # Flood-Hydrology
-Collection of method used for flood hydrology, i.e. Flood Frequency Analysis, Channel routing
+Collection of methods used for flood hydrology, i.e. Flood Frequency Analysis, Channel routing
